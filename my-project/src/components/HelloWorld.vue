@@ -1,6 +1,36 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+ <br>
+  <div><input type="text"></div>
+  <br>
+  <div><input type="text"></div>
+  <br>
+   <div><input type="text"></div>
+  <br>
+   <div><input type="text"></div>
+  <br>
+   <div><input type="text"></div>
+  <br>
+   <div><input type="text"></div>
+  <br>
+   <div><input type="text"></div>
+  <br>
+   <div><input type="text"></div>
+  <br>
+   <div><input type="text"></div>
+  <br>
+   <div><input type="text"></div>
+  <br>
+   <div><input type="text"></div>
+  <br>
+   <div><input type="text"></div>
+  <br>
+   <div><input type="text"></div>
+  <br>
+   <div><input type="text"></div>
+  <br>
+
   </div>
 </template>
 
